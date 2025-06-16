@@ -5,4 +5,4 @@ Inneholder følgende filer:
 * [Oppgave 1: Variables & Conditionals]()
 * [Oppgave 2: Funksjoner & Metoder]()
 * [Oppgave 3: Løkker & Objekter]()
-* [Oppgave 4: DOM Manipulation]()
+* [Oppgave 4: DOM Manipulation]() - work in progress
