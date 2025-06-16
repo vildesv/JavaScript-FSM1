@@ -1,0 +1,66 @@
+/* Grunninnstillinger for side */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #edf5ff;           /* Lys tekst */
+  background: #2c3e50;     /* Mørk blå bakgrunn */
+}
+
+/* Container som samler hovedinnholdet */
+.container {
+  max-width: 400px;
+  margin: 100px auto;      /* Senter på siden */
+  padding: 30px;
+  background: #34495e;     /* Litt lysere blå bakgrunn */
+  border-radius: 20px;
+  border: 5px solid #edf5ff;
+  text-align: center;      /* Sentrer teksten */
+  box-shadow: 0 8px 20px rgb(0 0 0 / 0.5);
+}
+
+/* Overskrift for siden */
+.container h1 {
+  margin-bottom: 20px;
+  color: #edf5ff;
+  font-size: 2em;
+}
+
+/* Stil for knappen */
+.container button {
+  padding: 10px 20px;
+  font-size: 1.1em;
+  background: #edf5ff;
+  color: #2c3e50;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.4);
+  transition: background 0.3s ease;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Hover-effekt for knappen */
+.container button:hover {
+  background: #d5edf5;
+  transform: translateY(-2px);
+}
+
+/* Overskrift for generert hobby */
+.container h2 {
+  margin-bottom: 15px;
+  color: #edf5ff;
+}
+
+/* Avsnitt for beskrivelse */
+.container p {
+  margin-bottom: 20px;
+  color: #edf5ff;
+  font-size: 1.1em;
+}
+
+/* Stil for bildet */
+.container img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.5);
+}
