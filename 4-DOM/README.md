@@ -1,5 +1,7 @@
 ## Javascript Basic Oppgave 4: DOM Manipulation
 
+Link til GitHub pages: https://vildesv.github.io/JavaScript-FSM1/4-DOM/index.html
+
 Oppgave: Lag din egen interaktive side! 🎨✨
 
 Hei, JavaScript-mester! 🤓 Nå er det tid for å bruke alt du har lært så langt til å lage din egen interaktive nettside. Denne oppgaven gir deg friheten til å være kreativ og bruke DOM-manipulasjon sammen med de andre konseptene vi har gjennomgått i JavaScript Basic. 🎉
